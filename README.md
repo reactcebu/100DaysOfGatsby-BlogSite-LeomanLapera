@@ -1,1 +1,1 @@
-Using [@leomanlapera/gatsby-theme-blog](@leomanlapera/gatsby-theme-blog)
+Using [@leomanlapera/gatsby-theme-blog](https://www.npmjs.com/package/@leomanlapera/gatsby-theme-blog)
