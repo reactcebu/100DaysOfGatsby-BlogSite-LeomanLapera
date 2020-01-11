@@ -9,7 +9,7 @@ module.exports = {
       resolve: `@leomanlapera/gatsby-theme-blog`, 
       options: {
         contentPath: `blogs`,
-        basePath: `/blog`,
+        basePath: `/`,
       },
     },
   ]

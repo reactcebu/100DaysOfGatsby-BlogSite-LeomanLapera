@@ -925,10 +925,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@leomanlapera/gatsby-theme-blog@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@leomanlapera/gatsby-theme-blog/-/gatsby-theme-blog-1.0.2.tgz#3bae8e45df72509d2f21bea1acf1b1a0ec722fcc"
-  integrity sha512-7gRfadlD9eVRcw0aLk23wBXmIa0UlOU4KO4/LYn+atiWhScYkHnTSva4d9kvirVZ8cDexHeUSr9l36D5taNu/g==
+"@leomanlapera/gatsby-theme-blog@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@leomanlapera/gatsby-theme-blog/-/gatsby-theme-blog-1.0.4.tgz#4da0cb66ecc38fe418cc1bbdc82f7ed8769de31f"
+  integrity sha512-EY7H6btdltW6KzmzY8x74JK3Bv5dfRWMBU8vmJ5ojlxw/usgxknoPD1CQQHSIey0nRupRrqcDEFn842rxW1rnA==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@emotion/styled" "^10.0.27"
